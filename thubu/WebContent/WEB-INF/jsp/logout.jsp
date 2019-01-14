@@ -3,11 +3,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>つぶやき - ログアウト</title>
+	<meta charset="UTF-8">
+	<title>つぶやき - ログアウト</title>
 </head>
 <body>
-<p>ログアウトしました。</p>
-<a href="/Thubu/">トップへ</a>
+	<p>ログアウトしました。</p>
+	<a href="/Thubu/">トップへ</a>
 </body>
 </html>

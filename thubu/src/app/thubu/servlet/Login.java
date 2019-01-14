@@ -19,7 +19,7 @@ public class Login extends HttpServlet {
 		
 		String name, pass;
 		
-		request.setCharacterEncoding("UTF-8");
+//		request.setCharacterEncoding("UTF-8");
 		name = request.getParameter("name");
 		pass = request.getParameter("pass");
 		
